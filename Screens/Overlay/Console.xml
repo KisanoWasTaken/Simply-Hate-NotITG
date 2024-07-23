@@ -38,7 +38,7 @@
         Name="DevCursor"
         Font="_eurostile outline"
         OnCommand="horizalign,left;vertalign,bottom;zoom,0.6;shadowlength,0;diffuse,0,1,0,0.9"
-        Text="|"
+        Text="<|"
     />
 </children>
 </ActorFrame>

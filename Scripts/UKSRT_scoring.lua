@@ -1,3 +1,5 @@
+-- No matter how many times you beg me, no one touches this at ALL.
+
 smooooch_p1bonus = 0;
 smooooch_p2bonus = 0;
 pid_p1bonus = 0;
